@@ -392,7 +392,7 @@ _Response:_ JSON
 
 ```json
 {
-    "message": `Product ${username} is found`,
+    "message": `Product 'username' is found`,
     "data": [
         {
             "name": "string",
@@ -632,9 +632,5 @@ _Response:_ JSON
   "message": "Invalid Token"
 }
 ```
-
-To see the response you can do API testing using an application like [Postman](https://www.postman.com/).
-If you have inserted the dummy datas you can use dummy merchant for login with phone number **081235971089** and password **qwerty12345**.
-You can also import this project's postman_collection at **./postman_collection/merchant-service.postman_collection.json** to your [Postman](https://www.postman.com/).
-
-I hope you guys like this project and ENJOY!!! :grin:
+use [Postman](https://www.postman.com/) for the rest API.
+enjoy!
