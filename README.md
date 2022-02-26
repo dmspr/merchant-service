@@ -10,10 +10,10 @@ The 2nd Mini project from dibimbing course in the form Backend API Server Develo
 - `npm init` This command serves as a tool to create a `package.json` file for the project being executed 
 
 # Entity Relationship Diagram
-![merchant-service-ERD](./picture/ERD Merchant Service.jpg)
+![merchant-service architecture diagram](./picture/ERD-Merchant-Service.png)
 
 # Architectur Diagram
-![merchant-service-Architectur-Diagram](./picture/architecture diagaram.jpg)
+![merchant-service-Architectur-Diagram](./picture/architecture-diagram.png)
 
 # Installation
 
