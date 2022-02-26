@@ -1,0 +1,30 @@
+{
+  "name": "miniproject_backend-server-development",
+  "version": "1.0.0",
+  "description": "merchant-service miniproject",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmspr/merchant-service.git"
+  },
+  "author": "Dimas Prasetyo A W",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmspr/merchant-service/issues"
+  },
+  "homepage": "https://github.com/dmspr/merchant-service#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.3",
+    "jsonwebtoken": "^8.5.1",
+    "validator": "^13.7.0",
+    "validatorjs": "^3.22.1"
+  }
+}
