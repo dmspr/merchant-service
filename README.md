@@ -8,6 +8,12 @@ The 2nd Mini project from dibimbing course in the form Backend API Server Develo
 - Go to http://nodejs.org, and click the Install button. Run the installer that you just downloaded
 - `npm install` to install all required dependencies on your terminal in root project directory
 - `npm init` This command serves as a tool to create a `package.json` file for the project being executed 
+- 
+# Entity Relationship Diagram
+![merchant-service-ERD](./picture/ERD Merchant Service.jpg)
+
+# Architectur Diagram
+![merchant-service-Architectur-Diagram](./picture/architecture diagaram.jpg)
 
 # Installation
 
